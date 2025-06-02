@@ -15,5 +15,3 @@ localization.
 
 These techniques help extract meaningful features from images, aiding in various real-world
 applications such as image stitching, 3D reconstruction, and object tracking.
-
-
